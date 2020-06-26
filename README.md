@@ -1,6 +1,6 @@
 # map-in-p5
 
-# Use your mouse and changes background color
+# Use your mouse and change background color
 test: https://lucabecci.github.io/map-in-p5/
 
 image: 
